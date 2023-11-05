@@ -1,4 +1,4 @@
-Requirements to launch Code Challange Test:
+Requirements to launch Code Challenge Test:
 
 -Java 18 installed
 
