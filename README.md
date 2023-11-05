@@ -1,6 +1,7 @@
 Requirements to launch Code Challange Test:
 
 -Java 18 installed
+
 -Maven installed
 
 To run this project:
