@@ -5,4 +5,5 @@ Requirements to launch Code Challange Test:
 -Maven installed
 
 To run this project:
+
 Clone repository, open terminal in the project folder and enter "mvn clean test".
