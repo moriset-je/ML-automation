@@ -1,0 +1,7 @@
+<suite name="CodeChallengeTest" verbose="1" >
+    <test name="CodeChallengeTest">
+        <classes>
+            <class name="test.CodeChallengeTest"/>
+        </classes>
+    </test>
+</suite>
