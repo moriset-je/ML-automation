@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="CodeChallengeTest" verbose="1" >
-    <test name="CodeChallengeTest">
-        <classes>
-            <class name="test.CodeChallengeTest"/>
-        </classes>
-    </test>
-</suite>
